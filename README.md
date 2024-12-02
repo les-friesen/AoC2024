@@ -9,7 +9,7 @@ Advent of Code Challenges 2024
 
 ## Solutions
 
-[![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/green)](aoc/day1)
+[![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/grey)](aoc/day1)
 [![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](aoc/day2)
 [![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85/green)](aoc/day3) 
 [![Day](https://badgen.net/badge/04/%E2%98%85%E2%98%85/green)](aoc/day4)
