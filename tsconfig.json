@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "module": "ESNext",  // Use ES modules
+      "target": "ESNext",  // Set target JavaScript version to latest
+      "moduleResolution": "node",  // Ensure Node module resolution
+      "esModuleInterop": true,  // Enable interop between CommonJS and ES modules
+      "skipLibCheck": true,  // Skip type checking of declaration files (optional, but speeds up build)
+      "outDir": "./dist",  // Specify output directory for compiled JavaScript
+      "allowJs": true,  // Allow JavaScript files in the compilation process (if you have `.js` files)
+      "resolveJsonModule": true  // If you're using JSON imports
+    },
+    "include": ["aoc/**/**/**/*.ts"],  // Your TypeScript files (adjust as needed)
+    "exclude": ["node_modules"]  // Exclude node_modules from compilation
+  }
