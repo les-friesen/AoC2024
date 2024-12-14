@@ -21,7 +21,7 @@ Advent of Code Challenges 2024
 [![Day](https://badgen.net/badge/11/%E2%98%85%E2%98%85/green)](aoc/aoc/day11)
 [![Day](https://badgen.net/badge/12/%E2%98%85%E2%98%85/green)](aoc/aoc/day12)
 [![Day](https://badgen.net/badge/13/%E2%98%85%E2%98%85/green)](aoc/aoc/day13)
-[![Day](https://badgen.net/badge/14/%E2%98%86%E2%98%86/grey)](aoc/aoc/day14)
+[![Day](https://badgen.net/badge/14/%E2%98%85%E2%98%85/green)](aoc/aoc/day14)
 [![Day](https://badgen.net/badge/15/%E2%98%86%E2%98%86/grey)](aoc/aoc/day15)
 [![Day](https://badgen.net/badge/16/%E2%98%86%E2%98%86/grey)](aoc/aoc/day16)
 [![Day](https://badgen.net/badge/17/%E2%98%86%E2%98%86/grey)](aoc/aoc/day17)
